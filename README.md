@@ -14,8 +14,3 @@
 ## Requirements
 - macOS 12+ (Monterey)  
 - Apple Music/Spotify running; Spotify must be installed.
-
-## (Optional) Verify download
-SHA-256: `PUT-YOUR-HASH-HERE`
-
-To compute:
